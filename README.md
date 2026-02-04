@@ -1,101 +1,87 @@
-<p align="center" style="background: linear-gradient(135deg,#79ff97,#ff79ac); padding: 30px; border-radius: 20px;">
-  <img src="https://i.pinimg.com/originals/7c/2e/19/7c2e19c2c030875b71d4f0b1c2bc8739.gif" width="200px" style="border-radius: 20px; box-shadow:0 8px 25px rgba(0,0,0,0.5);" />
-  
-  <h1 style="color:#fffaf0; text-shadow: 2px 2px 6px rgba(0,0,0,0.5);">Hello there, I'm Ahmed Mohamed Eliwa 👋</h1>
-  
-  <h3 style="color:#fff; font-style:italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.4);">
-    "Transforming Data into Intelligence, One Model at a Time."
-  </h3>
-
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedEliwa&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
-    <a href="https://www.linkedin.com/in/ahmed-mohamed-eliwa">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:ahmedeliwa5928@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.kaggle.com/ahmedeliwa">
-      <img src="https://img.shields.io/badge/Kaggle-20DAAA?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-    </a>
-    <a href="https://www.hackerrank.com/ahmedeliwa">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-    </a>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
-
----
-
-### 💬 About Me
-- 🔭 I’m currently working on Machine Learning & AI projects  
-- 🌱 Learning advanced Deep Learning architectures  
-- 👯 Looking to collaborate with AI & ML enthusiasts  
-- ⚡ Fun fact: I love turning complex data into elegant solutions  
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" style="color:#79ff97; font-weight:bold; font-size:16px;">
-    Python 🔹 Machine Learning 🔹 Deep Learning 🔹 NLP 🔹 Data Visualization 🔹 AI Projects
-  </marquee>
+<p>
+  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
+  <a href="mailto:ahmed.eliwa@example.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Ahmed%2C"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ahmedeliwa"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/ahmedeliwa"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ahmed-eliwa"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ahmedeliwa"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+<p>
+  🎶Now playing ...🎶<br/>
+  <a href="#">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/built%20with%20Spotify-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p>
 
----
-
-### 👨‍💻 Languages & Tools
-<p align="center">
-<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-<img alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-<img alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png">
-<img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img src="http://views.whatilearened.today/views/github/AhmedEliwa/views.svg"/>
+<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<p>
+  🧔 Moi c'est <bold>Ahmed Aliwa</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
+  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
+  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
+  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/ahmedeliwa">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
+  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
 </p>
+<p>
+  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:ahmed.eliwa@example.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Ahmed%2C">mail</a>, ou passez par mon <a href="#">site</a> !
+</p><br/>
 
----
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-### 🚀 Projects (GIF Cards)
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<details>
+  <summary>Quelques statistiques ...</summary><br/>
 
-<div style="background:#1c1c1c; color:#fffaf0; border-radius:15px; width:250px; padding:15px; text-align:center; box-shadow:0 8px 25px rgba(0,0,0,0.5); transition:0.3s; hover:transform:scale(1.05);">
-  <div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:10px;">
-    <img src="https://raw.githubusercontent.com/AhmedEliwa/ML-Predictive-Models/main/assets/demo.png" alt="Predictive Models GIF" style="width:100%; border-radius:12px;">
-  </div>
-  <h3>Predictive Models</h3>
-  <p>Regression & Classification Models with Python & Scikit-learn.</p>
-  <a href="https://github.com/AhmedEliwa/ML-Predictive-Models" style="color:#79ff97; text-decoration:none;">View Project</a>
-</div>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C866%20hrs%2042%20mins-blue?style=flat)
 
-<div style="background:#1c1c1c; color:#fffaf0; border-radius:15px; width:250px; padding:15px; text-align:center; box-shadow:0 8px 25px rgba(0,0,0,0.5); transition:0.3s; hover:transform:scale(1.05);">
-  <div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:10px;">
-    <img src="https://raw.githubusercontent.com/AhmedEliwa/Data-Visualization/main/assets/demo.png" alt="Data Visualization GIF" style="width:100%; border-radius:12px;">
-  </div>
-  <h3>Data Visualization</h3>
-  <p>Interactive dashboards & plots using Matplotlib, Seaborn & Plotly.</p>
-  <a href="https://github.com/AhmedEliwa/Data-Visualization" style="color:#79ff97; text-decoration:none;">View Project</a>
-</div>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue?style=flat)
 
-</div>
+**🐱 My GitHub Data** 
 
----
+> 📦 2.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-### 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedEliwa&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEliwa&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ahmed's Top Languages">
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEliwa&theme=radical)
+```text
+🌞 Morning                3485 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+🌆 Daytime                19897 commits       ████████████░░░░░░░░░░░░░   46.77 % 
+🌃 Evening                15233 commits       █████████░░░░░░░░░░░░░░░░   35.81 % 
+🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
----
-
-### 📫 Contact Me
-<p align="center">
-<a href="mailto:ahmedeliwa5928@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Click%20to%20Send-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-eliwa">
-  <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-</p>
-
----
-
-### ♟️ Fun Tracker (اختياري)
