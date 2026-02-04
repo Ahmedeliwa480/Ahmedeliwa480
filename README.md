@@ -15,18 +15,14 @@
 
 ## 🚀 Tech Stack (Data Science Track)
 
-### 🧠 Programming & Data
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
-
-### 📈 Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-
-### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
