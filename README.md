@@ -11,40 +11,27 @@
   <img align="center" alt="visitors" src="https://gpvc.arturio.dev/AhmedEliwa">
 </p>
 
+<!-- =================== BADGES =================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-eliwa">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:ahmedeliwa5928@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://www.kaggle.com/ahmedeliwa">
     <img src="https://img.shields.io/badge/Kaggle-20DAAA?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>&nbsp;
+  </a>
   <a href="https://www.hackerrank.com/ahmedeliwa">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-COMING%20SOON-blue?style=for-the-badge" alt="Portfolio"></a>
+  </a>
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 
 ---
 
-### I am a Data Scientist & Machine Learning Engineer
-
-- 💻 Currently working on Machine Learning & AI projects  
-- 🔭 Building predictive models and data-driven solutions  
-- 🌱 Learning advanced Deep Learning architectures  
-- 👯 Looking to collaborate with AI & ML enthusiasts  
-- 💬 Ask me about Python, ML, Deep Learning, or Data Science  
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/ahmed-mohamed-eliwa)  
-- ⚡ Fun fact: I love turning complex data into elegant solutions  
-
----
-
-### About Me
-
+### 🧑‍💻 About Me
 | 🔹 I Love | 🔹 Currently Learning | 🔹 Fun Fact |
 |-----------|---------------------|------------|
 | Data Science & ML | Advanced Deep Learning | Coffee fuels my code ☕ |
@@ -52,48 +39,32 @@
 
 ---
 
-### Languages and Tools
-
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img align="left" alt="R" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img align="left" alt="Scikit-learn" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-<img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-<img align="left" alt="PyTorch" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png">
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/6e4eaa0c83c9c79fdfde967a21d6d8eeed84a9c8/topics/docker/docker.png">
-<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/8ecf7f5ff893b4f8601b02ffdb3c65d0f1b0d7de/topics/aws/aws.png">
-<br><br><br><br>
-
----
-
-### 🚀 Projects I'm Working On
+### 🛠 Languages & Tools
 <p align="center">
-  <a href="https://github.com/AhmedEliwa/ML-Predictive-Models">Predictive Models</a> • 
-  <a href="https://github.com/AhmedEliwa/Data-Visualization">Data Visualization</a> •
-  <a href="https://github.com/AhmedEliwa/DeepLearning">Deep Learning Architectures</a>
+<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<img alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+<img alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
+<img alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+<img alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png">
+<img alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/6e4eaa0c83c9c79fdfde967a21d6d8eeed84a9c8/topics/docker/docker.png">
+<img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/8ecf7f5ff893b4f8601b02ffdb3c65d0f1b0d7de/topics/aws/aws.png">
 </p>
 
 ---
 
-### Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedEliwa&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEliwa&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ahmed's Top Languages">
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEliwa&theme=radical)
+### 📅 Timeline
+```mermaid
+gantt
+    title Ahmed Eliwa - Learning & Projects Timeline
+    dateFormat  YYYY-MM
+    section Education
+    Computer Science Degree :done, 2018-09, 2022-06
+    section ML & AI
+    Python & Data Science :done, 2022-07, 2023-02
+    Machine Learning Projects :active, 2023-03, 2024-01
+    Deep Learning & NLP :active, 2024-02, 2025-12
+    section Contributions
+    GitHub Projects :done, 2023-01, 2026-02
+    Kaggle Competitions :active, 2023-06, 2026-02
 
-<p align="center">
-NOTE: Top Languages does not indicate my skill level, it's a GitHub metric of which languages I use the most.
-</p>
-
----
-
-### QR Code for Contact
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=mailto:ahmedeliwa5928@gmail.com&size=150x150" alt="QR Code Email">
-</p>
-
-<hr>
-<p>Credits: <a href="https://github.com/AhmedEliwa">AhmedEliwa</a></p>
-<p>Last Edited on: 04/02/2026</p>
