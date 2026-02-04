@@ -11,7 +11,6 @@
   <img align="center" alt="visitors" src="https://gpvc.arturio.dev/AhmedEliwa">
 </p>
 
-<!-- =================== BADGES =================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-eliwa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -25,7 +24,6 @@
   <a href="https://www.hackerrank.com/ahmedeliwa">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-COMING%20SOON-blue?style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
@@ -54,19 +52,61 @@
 
 ---
 
-### 📅 Timeline
-```mermaid
-gantt
-    title Ahmed Eliwa - Learning & Projects Timeline
-    dateFormat  YYYY-MM
-    section Education
-    Computer Science Degree :done, 2018-09, 2022-06
-    section ML & AI
-    Python & Data Science :done, 2022-07, 2023-02
-    Machine Learning Projects :active, 2023-03, 2024-01
-    Deep Learning & NLP :active, 2024-02, 2025-12
-    section Contributions
-    GitHub Projects :done, 2023-01, 2026-02
-    Kaggle Competitions :active, 2023-06, 2026-02
+### 🚀 Projects (Cards + GIF Frames)
 
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+<!-- Project 1 -->
+<div style="background:#1c1c1c; color:#fffaf0; border-radius:15px; width:250px; padding:15px; text-align:center; box-shadow:0 8px 25px rgba(0,0,0,0.5); transition:0.3s; hover:transform:scale(1.05);">
+  <div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:10px;">
+    <img src="https://raw.githubusercontent.com/AhmedEliwa/ML-Predictive-Models/main/assets/demo.png" alt="Predictive Models GIF" style="width:100%; border-radius:12px;">
+  </div>
+  <h3>Predictive Models</h3>
+  <p>Building regression & classification models with Python & Scikit-learn.</p>
+  <a href="https://github.com/AhmedEliwa/ML-Predictive-Models" style="color:#79ff97; text-decoration:none;">View Project</a>
+</div>
+
+<!-- Project 2 -->
+<div style="background:#1c1c1c; color:#fffaf0; border-radius:15px; width:250px; padding:15px; text-align:center; box-shadow:0 8px 25px rgba(0,0,0,0.5); transition:0.3s; hover:transform:scale(1.05);">
+  <div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:10px;">
+    <img src="https://raw.githubusercontent.com/AhmedEliwa/Data-Visualization/main/assets/demo.png" alt="Data Visualization GIF" style="width:100%; border-radius:12px;">
+  </div>
+  <h3>Data Visualization</h3>
+  <p>Interactive dashboards & plots using Matplotlib, Seaborn & Plotly.</p>
+  <a href="https://github.com/AhmedEliwa/Data-Visualization" style="color:#79ff97; text-decoration:none;">View Project</a>
+</div>
+
+<!-- Project 3 -->
+<div style="background:#1c1c1c; color:#fffaf0; border-radius:15px; width:250px; padding:15px; text-align:center; box-shadow:0 8px 25px rgba(0,0,0,0.5); transition:0.3s; hover:transform:scale(1.05);">
+  <div style="position:relative; border-radius:12px; overflow:hidden; margin-bottom:10px;">
+    <img src="https://raw.githubusercontent.com/AhmedEliwa/DeepLearning/main/assets/demo.png" alt="Deep Learning GIF" style="width:100%; border-radius:12px;">
+  </div>
+  <h3>Deep Learning</h3>
+  <p>CNNs, RNNs & Transformers with TensorFlow & PyTorch.</p>
+  <a href="https://github.com/AhmedEliwa/DeepLearning" style="color:#79ff97; text-decoration:none;">View Project</a>
+</div>
+
+</div>
+
+---
+
+### 📊 Github Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedEliwa&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEliwa&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ahmed's Top Languages">
+<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEliwa&theme=radical)
+
+---
+
+### 📧 Contact
+<p align="center">
+  <a href="mailto:ahmedeliwa5928@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Send-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=mailto:ahmedeliwa5928@gmail.com&size=150x150" alt="QR Code Email">
+</p>
+
+<p align="center">
+  <b>Credits:</b> <a href="https://github.com/AhmedEliwa">AhmedEliwa</a> | Last Edited: 04/02/2026
+</p>
 
