@@ -1,83 +1,74 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### 👋 Hi, I'm Ahmed Eliwa  
+### 📊 Data Scientist | 🤖 Machine Learning Enthusiast
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Eliwa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed-eliwa)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-mohamed-eliwa&color=orange)
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![LinkedIn badge](https://img.shields.io/badge/Ahmed%20Eliwa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed-eliwa) <br>
 </div>
-
-<hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Science & Machine Learning**. 
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+## 🚀 Tech Stack (Data Science Track)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
-&nbsp;&nbsp;&nbsp; I enjoy exploring **GNU/Linux & Data Engineering tools**. <br>
+### 🧠 Programming & Data
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
-&nbsp;&nbsp; Ask me about **Data Analysis, Machine Learning, Python, or AI projects**. <br>
+### 📈 Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
-&nbsp; Find me on LinkedIn: **[Ahmed Eliwa](https://www.linkedin.com/in/ahmed-mohamed-eliwa)**<br>
+### 🤖 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
-&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Most of the time in Data Science is spent cleaning data, not training models.**<br>
+### 🛠 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+
+---
+
+## 👨‍💻 About Me
+
+- 📚 Currently learning **Data Science, Machine Learning & AI**
+- 🐧 Exploring **GNU/Linux & Data Engineering tools**
+- 💬 Ask me about **Data Analysis, ML Models, Python**
+- ⚡ Fun fact: **80% of Data Science work is data cleaning**
+
+---
+
+## 📊 GitHub Stats (Data Focused)
 
 <div align="center">
-<a href="https://github.com/SP-XD">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-mohamed-eliwa&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mohamed-eliwa&layout=compact&theme=tokyonight" width="48%"/>
 
-</a>
+</div>
 
-<details>
-  <summary>More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+---
 
-<hr>
+## 🔄 Data Science Workflow
 
-**Data Science Cycle** 🔄<br>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Data Cleaning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Collection & Cleaning <br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Model Training"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feature Engineering & Model Training <br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Model Deployment"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluation, Insights & Deployment <br>
+🌀 **Data Collection & Cleaning**  
+📊 **Exploratory Data Analysis (EDA)**  
+🤖 **Model Training & Tuning**  
+📈 **Evaluation & Insights**  
+🚀 **Deployment & Monitoring**
 
 </div>
 
