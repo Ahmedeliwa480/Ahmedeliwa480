@@ -26,8 +26,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### 🛠 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code)
@@ -39,7 +37,7 @@
 ## 👨‍💻 About Me
 
 - 📚 Currently learning **Data Science, Machine Learning & AI**
-- 🐧 Exploring **GNU/Linux & Data Engineering tools**
+- 🐧 Exploring **GNU/Data Engineering tools**
 - 💬 Ask me about **Data Analysis, ML Models, Python**
 - ⚡ Fun fact: **80% of Data Science work is data cleaning**
 
