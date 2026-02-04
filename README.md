@@ -42,27 +42,30 @@
 - ⚡ Fun fact: **80% of Data Science work is data cleaning**
 
 ---
-
-## 📊 GitHub Stats (Data Focused)
+## 📊 Data Science & ML Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-mohamed-eliwa&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mohamed-eliwa&layout=compact&theme=tokyonight" width="48%"/>
-
-</div>
+### 🧠 Core Data Skills
+![Python](https://img.shields.io/badge/Python-90%25-FFD43B?style=flat)
+![SQL](https://img.shields.io/badge/SQL-80%25-003B57?style=flat)
+![Statistics](https://img.shields.io/badge/Statistics-75%25-4CAF50?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-85%25-2196F3?style=flat)
 
 ---
 
-## 🔄 Data Science Workflow
+### 🤖 Machine Learning Stack
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Advanced-F7931E?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat)
 
-<div align="center">
+---
 
-🌀 **Data Collection & Cleaning**  
-📊 **Exploratory Data Analysis (EDA)**  
-🤖 **Model Training & Tuning**  
-📈 **Evaluation & Insights**  
-🚀 **Deployment & Monitoring**
+### 📈 Data Science Workflow
+🟢 **Collect & Clean Data**  
+🟡 **EDA & Feature Engineering**  
+🔵 **Model Training & Tuning**  
+🟣 **Evaluation & Insights**  
+⚫ **Deployment & Monitoring**
 
 </div>
-
