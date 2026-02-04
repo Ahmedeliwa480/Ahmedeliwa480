@@ -25,6 +25,7 @@
   <a href="https://www.hackerrank.com/ahmedeliwa">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-COMING%20SOON-blue?style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
@@ -67,4 +68,5 @@ gantt
     section Contributions
     GitHub Projects :done, 2023-01, 2026-02
     Kaggle Competitions :active, 2023-06, 2026-02
+
 
